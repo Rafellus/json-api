@@ -1,0 +1,21 @@
+{
+    "name":"Pepinillo",
+    "description":"Solo un pepinillo",
+    "image":"https://i.ibb.co/ZggmvBk/pepino.jpg",
+    "attributes":[
+        {
+            "trait_type":"Type",
+            "value":"Land"
+        },
+        {
+            "trait_type":"x-coordinate",
+            "display_type":"number",
+            "value":158
+        },
+        {
+            "trait_type":"y-coordinate",
+            "display_type":"number",
+            "value":96
+        }
+    ]
+}
